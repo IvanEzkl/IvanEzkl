@@ -1,5 +1,5 @@
 # 💫 Hey, I’m Ivan!
-👋 About Me<br>🖥️ I’m interested in Web Development & Design<br>🌿 I’m learning HTML and JavaScript, aiming to build engaging and creative websites<br>🤲 I’m open to collaborating on beginner-friendly web projects<br>💡 Ask me about front-end basics or design ideas<br>🎯 Fun fact: I like experimenting with unique color palettes and layouts<br>Contact me via:<br>Linkedin: https://www.linkedin.com/in/ivan-ezekiel-regodon-082a67379/<br>Email: regodonivanezekiel@gmail.com<br>Facebook: https://www.facebook.com/ezekiel.regodon
+👋 About Me<br>🖥️ I’m interested in Web Development & Design<br>🌿 I’m learning React.JS, aiming to build engaging and creative websites<br>🤲 I’m open to collaborating on beginner-friendly web projects<br>💡 Ask me about front-end basics or design ideas<br>🎯 Fun fact: I like experimenting with unique color palettes and layouts<br>Contact me via:<br>Linkedin: https://www.linkedin.com/in/ivan-ezekiel-regodon-082a67379/<br>Email: regodonivanezekiel@gmail.com<br>Facebook: https://www.facebook.com/ezekiel.regodon
 
 
 # 💻 Tech Stack:
