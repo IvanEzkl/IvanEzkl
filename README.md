@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" height="150" style="border-radius: 50%"/>
 
-  <h1>Hi, I'm Ivan Ezekiel Regodon! <img src="https://raw.githubusercontent.com/Martin Heinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+  <h1>Hi, I'm Ivan! <img src="https://raw.githubusercontent.com/Martin Heinz/MartinHeinz/master/wave.gif" width="30px"></h1>
   
   <h3>🚀 Aspiring Full Stack Developer</h3>
   
@@ -50,5 +50,5 @@
 <hr/>
 
 <div align="center">
-  <p><i>Proudly crafted by [Your Name]</i> ⚡</p>
+  <p><i>Proudly crafted by yours truly Ivan Ezekiel Regodon</i> ⚡</p>
 </div>
