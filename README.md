@@ -43,5 +43,4 @@
 <hr/>
 
 <div align="center">
-  <p><i>Proudly crafted by yours truly Ivan Ezekiel Regodon</i> ⚡</p>
 </div>
