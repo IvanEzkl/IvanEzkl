@@ -3,7 +3,7 @@
 
   <h1>Hi, I'm Ivan! <img src="https://raw.githubusercontent.com/Martin Heinz/MartinHeinz/master/wave.gif" width="30px"></h1>
   
-  <h3>🚀 Aspiring Full Stack Developer</h3>
+  <h3> Aspiring Full Stack Developer</h3>
   
   <p>
      Currently learning: <b>MERN Stack</b> &nbsp;|&nbsp; 
